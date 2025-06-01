@@ -1,0 +1,33 @@
+clear
+(await contract.balanceOf(buyer.address)).toString()
+await contract.buyTokens(amount, { value: price.mul(amount) });
+console.log(price)
+const price = await contract.tokenPrice();
+const amount = 2; // số lượng token muốn mua
+);
+  buyer // dùng ví thứ 2
+  "0xCF9CC11CC5f69f5b1D3fa6F28FFA47CA7DEbee90",
+  "NguyenThanhAn",
+const contract = await ethers.getContractAt(
+const [deployer, buyer] = await ethers.getSigners();
+const price = await contract.tokenPrice();
+const price = await contact.tokenPrice();
+const amount = 2;
+);
+  buyer // dùng ví thứ 2
+  "0xCF9CC11CC5f69f5b1D3fa6F28FFA47CA7DEbee90",
+  "NguyenThanhAn",
+const contract = await ethers.getContractAt(
+const [deployer, buyer] = await ethers.getSigners();
+);
+  buyer // dùng ví thứ 2
+  "0xCF9CC11CC5f69f5b1D3fa6F28FFA47CA7DEbee90",
+  "NguyenThanhAn",
+const contract = await ethers.getContractAt(
+clear
+const contract = await ethers.getContractAt("NguyenThanhAn",)
+console.log(developer)
+const [developer, buyer] = await ethers.getSigners();
+(await ethers.getSigners())[0].address
+await NguyenThanhAn.tokenPrice()
+const NguyenThanhAn = await ethers.getContractAt("NguyenThanhAn", "0xCF9CC11CC5f69f5b1D3fa6F28FFA47CA7DEbee90")
